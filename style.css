@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1{
+    font-weight: 500;
+}
+
+h2{
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 700;
+}
+
+h3{
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 500;
+}
+
+.alignleft{
+    float:left;
+}
+
+.alignright{
+    float:right;
+}
